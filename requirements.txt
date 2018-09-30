@@ -1,0 +1,7 @@
+flask
+flask-sendgrid
+flask-security
+flask-sqlalchemy
+flask-mail
+flask-script
+flask-migrate
